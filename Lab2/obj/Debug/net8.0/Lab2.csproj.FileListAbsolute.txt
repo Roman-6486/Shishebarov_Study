@@ -1,0 +1,15 @@
+D:\Files\Education\MainRepo\Lab2\bin\Debug\net8.0\Lab2.exe
+D:\Files\Education\MainRepo\Lab2\bin\Debug\net8.0\Lab2.deps.json
+D:\Files\Education\MainRepo\Lab2\bin\Debug\net8.0\Lab2.runtimeconfig.json
+D:\Files\Education\MainRepo\Lab2\bin\Debug\net8.0\Lab2.dll
+D:\Files\Education\MainRepo\Lab2\bin\Debug\net8.0\Lab2.pdb
+D:\Files\Education\MainRepo\Lab2\obj\Debug\net8.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files\Education\MainRepo\Lab2\obj\Debug\net8.0\Lab2.AssemblyInfoInputs.cache
+D:\Files\Education\MainRepo\Lab2\obj\Debug\net8.0\Lab2.AssemblyInfo.cs
+D:\Files\Education\MainRepo\Lab2\obj\Debug\net8.0\Lab2.csproj.CoreCompileInputs.cache
+D:\Files\Education\MainRepo\Lab2\obj\Debug\net8.0\Lab2.sourcelink.json
+D:\Files\Education\MainRepo\Lab2\obj\Debug\net8.0\Lab2.dll
+D:\Files\Education\MainRepo\Lab2\obj\Debug\net8.0\refint\Lab2.dll
+D:\Files\Education\MainRepo\Lab2\obj\Debug\net8.0\Lab2.pdb
+D:\Files\Education\MainRepo\Lab2\obj\Debug\net8.0\Lab2.genruntimeconfig.cache
+D:\Files\Education\MainRepo\Lab2\obj\Debug\net8.0\ref\Lab2.dll
