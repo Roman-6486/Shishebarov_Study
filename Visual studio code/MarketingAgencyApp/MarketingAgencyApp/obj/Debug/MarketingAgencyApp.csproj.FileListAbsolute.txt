@@ -1,0 +1,15 @@
+D:\IT\Курсовая\Visual studio code\MarketingAgencyApp\MarketingAgencyApp\obj\Debug\MarketingAgencyApp.csproj.AssemblyReference.cache
+D:\IT\Курсовая\Visual studio code\MarketingAgencyApp\MarketingAgencyApp\obj\Debug\MarketingAgencyApp.AddEditClientForm.resources
+D:\IT\Курсовая\Visual studio code\MarketingAgencyApp\MarketingAgencyApp\obj\Debug\MarketingAgencyApp.ClientsForm.resources
+D:\IT\Курсовая\Visual studio code\MarketingAgencyApp\MarketingAgencyApp\obj\Debug\MarketingAgencyApp.MainForm.resources
+D:\IT\Курсовая\Visual studio code\MarketingAgencyApp\MarketingAgencyApp\obj\Debug\MarketingAgencyApp.Properties.Resources.resources
+D:\IT\Курсовая\Visual studio code\MarketingAgencyApp\MarketingAgencyApp\obj\Debug\MarketingAgencyApp.csproj.GenerateResource.cache
+D:\IT\Курсовая\Visual studio code\MarketingAgencyApp\MarketingAgencyApp\obj\Debug\MarketingAgencyApp.csproj.CoreCompileInputs.cache
+D:\IT\Курсовая\Visual studio code\MarketingAgencyApp\MarketingAgencyApp\obj\Debug\MarketingAgencyApp.AddEditProjectForm.resources
+D:\IT\Курсовая\Visual studio code\MarketingAgencyApp\MarketingAgencyApp\bin\Debug\MarketingAgencyApp.exe.config
+D:\IT\Курсовая\Visual studio code\MarketingAgencyApp\MarketingAgencyApp\bin\Debug\MarketingAgencyApp.exe
+D:\IT\Курсовая\Visual studio code\MarketingAgencyApp\MarketingAgencyApp\bin\Debug\MarketingAgencyApp.pdb
+D:\IT\Курсовая\Visual studio code\MarketingAgencyApp\MarketingAgencyApp\obj\Debug\MarketingAgencyApp.exe
+D:\IT\Курсовая\Visual studio code\MarketingAgencyApp\MarketingAgencyApp\obj\Debug\MarketingAgencyApp.pdb
+D:\IT\Курсовая\Visual studio code\MarketingAgencyApp\MarketingAgencyApp\obj\Debug\MarketingAgencyApp.AddEditServiceForm.resources
+D:\IT\Курсовая\Visual studio code\MarketingAgencyApp\MarketingAgencyApp\obj\Debug\MarketingAgencyApp.ServicesForm.resources
